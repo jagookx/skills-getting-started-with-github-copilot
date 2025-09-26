@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", () => {
         } else {
           participantsHTML = `
             <div class="participants-section no-participants">
-              <em>Aucun participant pour le moment.</em>
+              <em>No participants yet.</em>
             </div>
           `;
         }
